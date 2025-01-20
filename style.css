@@ -49,7 +49,6 @@
     background-color: #1F2937; 
     color: white;
 }
-  
 .hero-txt {
     margin-left: 100px;
     max-width: 50%;
@@ -57,21 +56,17 @@
     flex-direction: column;
     align-items: flex-start;
 }
-
 .hero-title {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
     margin-bottom: 10px;
 }
-
 .hero-subtext {
     font-size: 18px;
     color: #E5E7EB;
     margin-bottom: 20px;
 }
-
-/* Botão */
 .hero-txt button {
     background-color: #007bff;
     color: white;
@@ -81,12 +76,9 @@
     cursor: pointer;
     align-self: flex-start;
 }
-
 .hero-txt button:hover {
     background-color: #0056b3;
 }
-
-/* Imagem da seção hero */
 .hero-img {
     background-color: #6c757d;
     color: white;
