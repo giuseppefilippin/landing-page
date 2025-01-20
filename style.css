@@ -68,9 +68,10 @@
     margin-bottom: 20px;
 }
 .hero-txt button {
+    font-size: 18px;
     background-color: #007bff;
     color: white;
-    padding: 10px 20px;
+    padding: 20px 40px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
